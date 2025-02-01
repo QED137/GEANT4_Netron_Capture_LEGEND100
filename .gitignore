@@ -1,0 +1,9 @@
+build/
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.so
+*.a
+*.root
+*.bin
+*.log
