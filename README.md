@@ -77,13 +77,6 @@ This project simulates neutron capture using **Geant4** for **LEGEND-4** experim
 - Data analysis with **ROOT and Python**
 - Monte Carlo simulations for nuclear interactions
 
-## 📦 Installation
- **Clone this repository**
-   ```bash
-   git clone git@github.com:QED137/GEANT4_Netron_Capture_LEGEND4.git
-   cd GEANT4_Netron_Capture_LEGEND4
-```
-
 
 [ MIT License]
 
