@@ -1,5 +1,5 @@
 # Geant4 Neutron Capture Simulation 
-This project simulates neutron capture using Geant4 for LEGEND-4 experiments. It models neutron interactions with different materials and analyzes the results using ROOT. This work was part of my research assistant role at the University of Tübingen.
+This project simulates neutron capture using Geant4 for LEGEND1000 experiments. It models neutron interactions with different materials and analyzes the results using ROOT. This work was part of my research assistant role at the University of Tübingen.
 
 
 
